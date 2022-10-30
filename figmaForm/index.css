@@ -1,0 +1,193 @@
+*{
+    position: absolute;
+    margin: 0;
+}
+
+.purpleSide {
+    display: inline;
+    width: 806.5px;
+    height: 1310px;
+    background: linear-gradient(180deg, #7271FF 0%, #3433FF 100%);
+}
+.eclipse12 {
+    padding-top: 380px;
+}
+.companyName {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color:  rgba(255, 255, 255, 1);
+    padding-top: 80px;
+    padding-left: 159px;
+}
+
+.polygon1 {
+    padding-left: 80px;
+    padding-top: 103.17px;
+}
+
+.polygon2 {
+    padding-left: 105px;
+    padding-top: 89px;
+}
+
+.description {
+    width: 486px;
+    height: 80px;
+    padding-top: 313px;
+    padding-left: 90px;
+    text-align: center;
+}
+
+.descriptionText {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.frame3 {
+    padding-top: 400px;
+}
+
+.preview {
+    padding-top: 648px;
+    padding-left: 173px;
+}
+
+.formSide {
+    display: inline;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    padding-left: 1153px;
+    padding-top: 143px;
+    padding-right: 716px; 
+    padding-bottom: 887px;
+}
+
+.formText {
+    padding-left:1219px;
+    padding-top: 143px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: black;
+    width: 287px;
+    height: 50px;
+}
+
+.formDescription{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: rgba(148, 148, 148, 1);
+    padding-left: 1146.25px;
+    padding-top: 209px;
+    width: 434px;
+    height: 60px;
+}
+
+.label {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.input {
+    width: 433px;
+    height: 60px;
+    border: 1px solid #949494;
+}
+
+.nameLabel {
+    padding-top: 289px;
+    padding-left: 1154.25px;
+}
+
+.input[type=text]{
+    margin-top: 338px;
+    margin-left: 1146.25px;
+}
+
+.emailLabel {
+    padding-top: 418px;
+    padding-left: 1146.25px;
+}
+
+.input[type=email]{
+    margin-top: 467px;
+    margin-left: 1146.25px;
+}
+
+.passwordLabel {
+    padding-top: 547px;
+    padding-left: 1146.25px;
+}
+
+.input[type=password] {
+    margin-top: 596px;
+    margin-left: 1146.25px;
+}
+
+::placeholder {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #949494;
+}
+
+button{
+    width: 433px;
+    height: 69px;
+    border-radius: 8px;
+}
+
+.submit {
+    margin-top: 696px;
+    margin-left: 1146.25px;
+    background-color: #4443FF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    box-shadow: 9px 9px 10px rgba(114, 113, 255, 0.25);
+    border: 0;
+}
+
+.google{
+    margin-top: 798px;
+    margin-left: 1146.25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: rgba(68, 67, 255, 1);
+    border: 1px solid #949494;
+}
+
+.googleLogo {
+    height: 32px;
+    width: 32px;
+    left: 85.5px;
+    top: 18.5px;
+    border-radius: 0px;
+}
+
+.logInLink {
+    width: 288px;
+    height: 30px;
+    left: 1218.25px;
+    top: 907px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 166.5%;
+    color: #949494;
+}
+
+a{
+    color: rgba(114, 113, 255, 1);
+}
+
